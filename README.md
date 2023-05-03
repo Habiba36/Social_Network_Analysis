@@ -1,5 +1,5 @@
 # Social_Network_Analysis
-Mini Social networks analysis tool
+Minimum Social networks analysis tool
 
 It is a desktop software for network analysis and visualization. It is a tool used by
 data analysts and researchers to explore graphs of different networks. It enables
