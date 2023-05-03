@@ -8,7 +8,7 @@ and edges based on calculated metrics or existing features, filtering the graphs
 based on any criteria, applying different community detection methods, link
 prediction techniques, and detecting influential users.
 My task is implemented with an interactive system using Python (NetworkX)
-requirements::
+requirements:
 1- community detection algorithm ( e.g., Girvan Newman or Louvain algorithm) in addition to
 2 -community detection evaluations ( internal and external evaluation)
 3- One link analysis technique( e.g., page rank)
